@@ -725,6 +725,8 @@ a {
 }
 .cid-tQuakXTl33 {
   display: flex;
+  padding-top: 90px;
+  padding-bottom: 90px;
   background-image: url("../../../assets/images/at7i0232-5-2000x1333.jpeg");
 }
 .cid-tQuakXTl33 .mbr-overlay {
@@ -737,7 +739,7 @@ a {
 }
 @media (min-width: 768px) {
   .cid-tQuakXTl33 {
-    align-items: flex-end;
+    align-items: center;
   }
   .cid-tQuakXTl33 .row {
     justify-content: center;
@@ -769,8 +771,8 @@ a {
   text-align: center;
 }
 .cid-tQuaAmit1m {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 3rem;
+  padding-bottom: 0rem;
   background-color: #232323;
 }
 .cid-tQuaAmit1m .mbr-fallback-image.disabled {
@@ -852,6 +854,10 @@ a {
 .cid-tQuaAmit1m H3 {
   color: #edefeb;
 }
+.cid-tQuaAmit1m .mbr-text,
+.cid-tQuaAmit1m .mbr-section-btn {
+  color: #edefeb;
+}
 .cid-tQuoqMqPgu {
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -923,7 +929,7 @@ a {
 .cid-tQuarg4nqG {
   padding-top: 3rem;
   padding-bottom: 3rem;
-  background-color: #edefeb;
+  background-color: #232323;
 }
 .cid-tQuarg4nqG .mbr-media {
   position: relative;
@@ -1003,7 +1009,7 @@ a {
   max-width: 800px;
 }
 .cid-tQuarg4nqG .mbr-section-title {
-  color: #404040;
+  color: #edefeb;
 }
 .cid-tQuapQbEwf {
   padding-top: 4rem;
